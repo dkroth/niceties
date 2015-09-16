@@ -45,13 +45,13 @@ $( document ).ready(function() {
     if (showImages == 'true') { //set in user preferences
         var albumData;
         if ( theme == 'nature' ) {
-            albumData = getAlbum('jx90V');
+            albumData = getAlbum('wAMAG');
         }
         if ( theme == 'space' ) {
-            albumData = getAlbum('Juchx');
+            albumData = getAlbum('wAMAG');
         }
         if ( theme == 'technology' ) {
-            albumData = getAlbum('3Jkor');
+            albumData = getAlbum('wAMAG');
         }
         //make sure the preferences checkbox is checked
         $('#bg-image').prop('checked', true);
