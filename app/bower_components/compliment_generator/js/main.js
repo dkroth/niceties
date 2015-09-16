@@ -1,31 +1,31 @@
 (function(){
     var beginning = "You are a";
 
-    var adjective = ["beautiful", "kind", "caring", "loveable",
-		     "pretty", "handsome", "intelligent", "brilliant",
-		     "strong", "smart", "cute", "powerful", "great",
+    var adjective = ["foul", "bad", "caring", "calamitous",
+		     "damnable", "handsome", "intelligent", "brilliant",
+		     "strong", "smart", "nefarious", "powerful", "great",
 		     "quick", "perfect", "flawless", "skilled",
-		     "talented", "smart", "loyal", "friendly",
-		     "selfless", "focused", "undefeated", "unbeatable",
-		     "awesome", "incredible", "fantastic", "cool",
+		     "talented", "smart", "offensive", "spiteful",
+		     "selfish", "focused", "undefeated", "unbeatable",
+		     "awesome", "incredible", "fantastic", "heinous",
 		     "lovely", "dashing", "funny", "sharp", "confident",
-		     "shining", "inspiring", "fantastic", "irreplaceable",
-		     "unique", "valuable", "magical", "witty", "good", "imaginative", "iconic",
-		     "masterful", "unmistakable", "unbreakable", "happy", "upbeat", "forward-thinking",
-		     "adventurous", "ambitious", "brave", "bright", "broad-minded", "charming", "compassionate",
-		     "considerate", "courteous", "decisive", "determined", "diligent", "enthusiastic",
-		     "faithful", "fearless", "generous", "gentle", "helpful", "honest", "intuitive", "optimistic", "pioneering",
-		     "polite", "quick-witted", "rational", "self-confident", "self-disciplined", "straightforward", "warmhearted"];
+		     "shining", "devilish", "fantastic", "irreplaceable",
+		     "unique", "valuable", "magical", "diabolical", "bad", "execrable", "iconic",
+		     "masterful", "unmistakable", "unbreakable", "goetic", "revolting", "wrathful",
+		     "adventurous", "ambitious", "brave", "bright", "single-minded", "malevloent", "hideous",
+		     "spiteful", "injurious", "decisive", "iniquitous", "atrocious", "enthusiastic",
+		     "faithful", "fearless", "stingy", "base", "helpless", "dishonest", "intuitive", "pesimistic", "low",
+		     "impolite", "dull-witted", "irrational", "self-indulgent", "disciplined", "crooked", "darkhearted"];
 
-    var noun = ["human being", "person", "fluffy bunny",
-		"image of perfection", "warrior", "jedi", "friend",
-		"angel", "cutie pie", "daisy", "hottie", "stud muffin",
-		"idol", "sweetheart", "genius", "star", "superstar",
-		"rock star", "winner", "god", "inspiration", "superhero",
-		"deity", "success", "example", "leader", "team player",
-		"thinker", "companion", "learner", "soul", "human",
-		"role model", "achiever", "asset", "human", "being",
-		"wizard"];
+    var noun = ["human being", "person", "demi-god",
+		"symbol", "warrior", "master", "nemesis",
+		"maker", "blade", "thorn", "lord of lords", "warrior",
+		"idol", "king of kings", "genius", "hole", "supernova",
+		"usurper", "conqueror", "god", "inspiration", "commander",
+		"deity", "success", "example", "leader", "team of one",
+		"thinker", "vanquisher", "taker", "go-getter", "human",
+		"vindicator", "achiever", "asset", "victor", "dictator",
+		"tyrant"];
 
     window.getCompliment = getCompliment;
     getCompliment();
