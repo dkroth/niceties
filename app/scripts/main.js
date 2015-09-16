@@ -14,7 +14,7 @@ $( document ).ready(function() {
             theme = preferences[3].split('=')[1];
         }
         else {
-            theme = 'nature';
+            theme = 'unnatural';
         }
         
         console.log('bg: ' + bgColor);
@@ -26,7 +26,7 @@ $( document ).ready(function() {
         bgColor="#333333";
         fontColor="#FFFFFF";
         showImages="true";
-        theme="nature";
+        theme="unnatural";
         
          console.log('bg: ' + bgColor);
         console.log('font: ' + fontColor);
@@ -44,11 +44,11 @@ $( document ).ready(function() {
     // Background image
     if (showImages == 'true') { //set in user preferences
         var albumData;
-        if ( theme == 'nature' ) {
-            albumData = getAlbum('wAMAG');
+        if ( theme == 'unnatural' ) {
+            albumData = getAlbum('hCTqD');
         }
         if ( theme == 'space' ) {
-            albumData = getAlbum('wAMAG');
+            albumData = getAlbum('9k88U');
         }
         if ( theme == 'technology' ) {
             albumData = getAlbum('wAMAG');
