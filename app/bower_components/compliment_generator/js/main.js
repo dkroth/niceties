@@ -8,7 +8,7 @@
 		     "talented", "smart", "offensive", "spiteful",
 		     "selfish", "focused", "undefeated", "unbeatable",
 		     "awesome", "incredible", "fantastic", "heinous",
-		     "lovely", "dashing", "funny", "sharp", "confident",
+		     "lovely", "dashing", "funny", "sharp", "crazy",
 		     "shining", "devilish", "fantastic", "irreplaceable",
 		     "unique", "valuable", "magical", "diabolical", "bad", "execrable", "iconic",
 		     "masterful", "unmistakable", "unbreakable", "goetic", "revolting", "wrathful",
